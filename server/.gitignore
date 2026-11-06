@@ -1,0 +1,9 @@
+node_modules/
+dist/
+coverage/
+generated/
+*.tsbuildinfo
+# Keep environment variables and local examples out of version control
+.env
+.env.*
+.env.example

@@ -1,0 +1,23 @@
+# Dependencies and build output
+node_modules/
+dist/
+build/
+coverage/
+.vite/
+*.tsbuildinfo
+
+# Environment files (examples are intentionally local for this assessment)
+.env
+.env.*
+!.env.template
+.env.example
+
+# Prisma generated client
+generated/
+
+# Logs and OS/editor files
+*.log
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/extensions.json
