@@ -146,3 +146,17 @@ The server test suite covers clean workflow completion, agent failure and retry 
 ## Security
 
 Never commit a real `.env` file or database credentials. Keep MySQL access scoped to a least-privilege application account, use TLS for production database connections, and restrict the API with authentication and role-based authorization before exposing it outside a development environment.
+
+## Assessment Screen Recording
+
+The complete screen recording of my assessment is available here:
+
+[My Assessment Recording](https://drive.google.com/file/d/1vjAhhVlmDfg7U_2Q-0BX6cna8Y9jtNWc/view?usp=sharing)
+
+This recording shows the development process and the final implementation of my Multi-Agent Onboarding Case Reviewer.
+
+One thing I would like to mention is that due to the 60-minute time constraint, I couldn’t make commits at every milestone as I was more focused on completing and testing the implementation within the given time. So, I ended up committing the complete project together at the end.
+
+I understand that making regular commits is important, and I apologise for missing that part. I hope you will understand the time constraint.
+
+Thank you for reviewing my submission.
